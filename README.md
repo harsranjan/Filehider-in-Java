@@ -18,7 +18,7 @@ File Hider is a Java application designed to securely hide files, ensuring priva
 ## Installation
 
 1. Clone the repository:
-
+<br>
 git clone https://github.com/your-username/file-hider.git
 
 2. Set up your MySQL database and configure the database connection in the project.
