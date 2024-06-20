@@ -18,8 +18,7 @@ File Hider is a Java application designed to securely hide files, ensuring priva
 ## Installation
 
 1. Clone the repository:
-<br>
-git clone https://github.com/harsranjan/filehider.git
+    - git clone https://github.com/harsranjan/filehider.git
 
 2. Set up your MySQL database and configure the database connection in the project.
 
@@ -28,8 +27,9 @@ git clone https://github.com/harsranjan/filehider.git
 4. Make some changes in 2 class files :
    
               - MyConnection.java (src/main/java/db) -- change your database username and password
+   
               - SendOTPService.java (src/main/java/service) -- change your email id and password
-5. Compile and run the Java application from IntelliJ IDEA.
+6. Compile and run the Java application from IntelliJ IDEA.
 
 ## Usage
 
