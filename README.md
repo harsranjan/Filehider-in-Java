@@ -48,7 +48,3 @@ File Hider is a Java application designed to securely hide files, ensuring priva
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
