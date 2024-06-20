@@ -25,6 +25,9 @@ git clone https://github.com/harsranjan/filehider.git
 
 3. Open the project in IntelliJ IDEA.
 
+4. Make some changes in 2 class files :
+              1. MyConnection.java (src/main/java/db) -- change your database username and password
+              2. 
 4. Compile and run the Java application from IntelliJ IDEA.
 
 ## Usage
